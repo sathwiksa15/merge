@@ -1,5 +1,6 @@
 print("merge")
 print("update")
-print("update r master")
+print("update the the master")
 print("update release")
+
 
